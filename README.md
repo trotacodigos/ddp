@@ -1,9 +1,11 @@
 # Discourse Dependency (DDP)
 
-Code and data for **[Discourse Dependency: A Continuous Criterion for Translation Difficulty](https://arxiv.org/abs/2609.04959)**
-Ahrii Kim, Chanjun Park, Seong-heum Kim (Soongsil University)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.05949-b31b1b.svg)](https://arxiv.org/abs/2609.04959)
 
-<p align="center"> <img src="assets/ddp_distribution.png" width="600"> </p>
+Code and data for **Discourse Dependency: A Continuous Criterion for Translation Difficulty**
+by Ahrii Kim, Chanjun Park, Seong-heum Kim (Soongsil University)
+
+<p align="center"> <img src="assets/ddp_distribution.png" width="800"> </p>
 
 
 DDP measures how far back into its document a segment must look to resolve the
