@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.env
+
+# local logs and files marked for removal
+data/output/inference_log.csv
+_to_delete/

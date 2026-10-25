@@ -1,0 +1,23 @@
+# DDP computation
+spacy>=3.8,<3.9
+en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+tqdm
+
+# Flair ablation (optional)
+# flair
+# nltk
+
+# APE experiments
+openai
+google-genai
+requests
+torch
+transformers
+numpy
+
+# Figures (analysis/)
+matplotlib
+pandas
+scipy
+statsmodels
