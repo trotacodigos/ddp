@@ -3,6 +3,9 @@
 Code and data for **[Discourse Dependency: A Continuous Criterion for Translation Difficulty](https://arxiv.org/abs/2609.04959)**
 Ahrii Kim, Chanjun Park, Seong-heum Kim (Soongsil University)
 
+<p align="center"> <img src="assets/ddp_distribution.png" width="600"> </p>
+
+
 DDP measures how far back into its document a segment must look to resolve the
 entities and pronouns it contains. It is computed from the English source only,
 so it does not depend on any MT system or quality metric.
